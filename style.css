@@ -1,0 +1,21 @@
+.j{
+    border: 2px solid black;
+    width: 314px;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 12px;
+    height: 250px;
+    box-shadow: 4px 2px 7px gray;
+    transition: 0.5s;
+}
+p{  
+    font-size: 16px;
+}
+
+.s{
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+    width: 1400px;
+    margin: 0 auto;
+}
